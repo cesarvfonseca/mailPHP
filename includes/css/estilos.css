@@ -1,0 +1,53 @@
+.cabecera{
+    position: absolute;
+    top: 10px;
+    width: 1150px;
+    height: 130px;
+}
+
+.cuerpo{
+    position: absolute;
+    top: 280px;
+    left: 460px;
+    border: 2px solid blue;
+    padding: 50px;
+    border-radius: 15px;
+}
+
+p{
+    font-size: 16px;
+    color: #000000;
+    font-family: inherit;
+}
+
+.formulario{
+    text-align: center;
+}
+
+footer{
+    position: absolute;
+    bottom: 10px;
+    left: 35px;
+    text-align: center;
+}
+
+#link{
+    text-align: center;
+}
+
+a{
+    font-size: 20px;
+    font-family: inherit;
+    padding: 10px;
+    background-color: background;
+    color: blanchedalmond;
+    text-decoration: none;
+    border-radius: 15px;
+}
+
+a:hover{
+    text-decoration: none;
+    color: blanchedalmond;
+    border: 1px solid activecaption;
+    box-shadow: 5px 5px 5px 5px buttonhighlight;
+}
